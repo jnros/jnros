@@ -1,11 +1,9 @@
 # John Rose
 
-Systems engineer focused on AI infrastructure, Linux, and low-level performance.
+Systems engineer. Linux kernel, virtualization, AI infrastructure.
 
 **Background:** Linux kernel development at IBM (POWER systems virtualization, librtas - still in use today), 
 then corporate strategy at AT&T. Back to systems work.
-
-**Current focus:** C/assembly, Linux, infrastructure, CUDA and AI acceleration
 
 **Recent Projects:** [quant-sampler](https://github.com/jnros/quant-sampler) Minimal implementation of sampling in C with numerically stable softmax and custom bit-packing.  
 [rand-bitwise](https://github.com/jnros/rand-bitwise) Unbiased random number generator using Lemire's algorithm.  
