@@ -12,4 +12,4 @@ Systems engineer. Linux kernel, virtualization, AI infrastructure.
 
 **Background:** 7 years Linux kernel at IBM, 15 years corporate, returning to systems work
 
-**Contact:** [john@johnrose.co]
+**Contact:** [johnrose3000@gmail.com]
