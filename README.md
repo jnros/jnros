@@ -5,7 +5,7 @@ Systems engineer. Linux kernel, virtualization, AI infrastructure.
 **Linux Kernel:** Author of ([rpadlpar](https://github.com/torvalds/linux/blob/v6.18/drivers/pci/hotplug/rpadlpar_core.c)) in mainline kernel. PCI Hotplug driver for runtime I/O reconfig. 
 
 Currently exploring Engram-style embedding offloading for LLM inference. 
-01/18/2026 [Deepseek Engram kernel implications](https://gist.github.com/jnros/engram-kernel-implications)
+01/18/2026 [Deepseek Engram kernel implications](https://gist.github.com/jnros/engram-kernel-implications.md)
 
 **Recent Projects:** [kvm-experiments](https://github.com/jnros/kvm-experiments) Built KVM host, client VMs, and debugged passthrough / VFIO / iommu.  
 [CUDA-prog](https://github.com/jnros/CUDA-prog) Progressively parallel vector math with CUDA and GPUs.  
