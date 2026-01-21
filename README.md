@@ -1,6 +1,6 @@
 # John Rose
 
-Systems engineer. Linux kernel, virtualization, AI infrastructure.
+Systems engineer. Linux kernel, AI infrastructure, virtualization.
 
 **Linux Kernel:** Author of ([rpadlpar](https://github.com/torvalds/linux/blob/v6.18/drivers/pci/hotplug/rpadlpar_core.c)) in mainline kernel. PCI Hotplug driver for runtime I/O reconfig. 
 
