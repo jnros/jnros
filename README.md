@@ -1,7 +1,6 @@
 # John Rose
 
-## Latest work
-Currently exploring Engram-style embedding offloading for LLM inference.  
+** Latest work **  
 2026-01 Ozaki fp64 emulation on NVIDIA Blackwell: mantissa slicing POC  
 [code](https://github.com/jnros/slice) | [notes](https://gist.github.com/jnros)  
 2026-01 DeepSeek Engram: systems implications of KV offload for LLMs  
