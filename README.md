@@ -2,10 +2,10 @@
 
 ## Latest work
 Currently exploring Engram-style embedding offloading for LLM inference.  
-2026-01 Ozaki fp64 emulation on NVIDIA Blackwell: mantissa slicing POC
-[code](https://github.com/jnros/slice) | [notes](https://gist.github.com/jnros)
-2026-01 DeepSeek Engram: systems implications of KV offload for LLMs 
-[notes](https://gist.github.com/jnros/92ed1e5b5af05d3a2fd353b4537af744)
+2026-01 Ozaki fp64 emulation on NVIDIA Blackwell: mantissa slicing POC  
+[code](https://github.com/jnros/slice) | [notes](https://gist.github.com/jnros)  
+2026-01 DeepSeek Engram: systems implications of KV offload for LLMs  
+[notes](https://gist.github.com/jnros/92ed1e5b5af05d3a2fd353b4537af744)  
 
 Systems engineer. Linux kernel, AI infrastructure, virtualization.
 
