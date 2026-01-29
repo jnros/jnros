@@ -2,9 +2,9 @@
 
 **Latest work**  
 2026-01 Ozaki fp64 emulation on NVIDIA Blackwell: mantissa slicing POC  
-[code](https://github.com/jnros/slice) | [notes](https://gist.github.com/jnros/c97b01bff9aa683069556e6e0b6ae073)  
+[analysis](https://gist.github.com/jnros/c97b01bff9aa683069556e6e0b6ae073) | [code](https://github.com/jnros/slice)  
 2026-01 DeepSeek Engram: systems implications of KV offload for LLMs  
-[notes](https://gist.github.com/jnros/92ed1e5b5af05d3a2fd353b4537af744)  
+[analysis](https://gist.github.com/jnros/92ed1e5b5af05d3a2fd353b4537af744)  
 
 Systems engineer. Linux kernel, AI infrastructure, virtualization.
 
