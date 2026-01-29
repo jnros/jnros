@@ -1,11 +1,15 @@
 # John Rose
 
+## Latest work
+Currently exploring Engram-style embedding offloading for LLM inference.  
+2026-01 Ozaki fp64 emulation on NVIDIA Blackwell: mantissa slicing POC
+[code](https://github.com/jnros/slice) | [notes](https://gist.github.com/jnros)
+2026-01 DeepSeek Engram: systems implications of KV offload for LLMs 
+[notes](https://gist.github.com/jnros/92ed1e5b5af05d3a2fd353b4537af744)
+
 Systems engineer. Linux kernel, AI infrastructure, virtualization.
 
 **Linux Kernel:** Author of ([rpadlpar](https://github.com/torvalds/linux/blob/v6.18/drivers/pci/hotplug/rpadlpar_core.c)) in mainline kernel. PCI Hotplug driver for runtime I/O reconfig. 
-
-Currently exploring Engram-style embedding offloading for LLM inference.  
-01/18/2026 [Deepseek Engram kernel implications](https://gist.github.com/jnros/92ed1e5b5af05d3a2fd353b4537af744)
 
 **Recent Projects:** [kvm-experiments](https://github.com/jnros/kvm-experiments) Built KVM host, client VMs, and debugged passthrough / VFIO / iommu.  
 [CUDA-prog](https://github.com/jnros/CUDA-prog) Progressively parallel vector math with CUDA and GPUs.  
