@@ -1,7 +1,7 @@
 # John Rose
 
 **Latest work**  
-2026-01 - Kimi K2.5 technical paper  
+2026-01 - Kimi K2.5 technical paper: methods and implications  
 [analysis](https://gist.github.com/jnros/b198b7b78120f972b84d4787e9eb9c57)  
 2026-01 - Ozaki fp64 emulation on NVIDIA Blackwell: mantissa slicing POC  
 [analysis](https://gist.github.com/jnros/c97b01bff9aa683069556e6e0b6ae073) | [code](https://github.com/jnros/slice)  
