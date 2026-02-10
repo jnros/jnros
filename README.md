@@ -1,7 +1,7 @@
 # John Rose
 
 **Latest work**  
-2026-02 - Decode attention benchmark - (Multi-Head, Group Query, Multi-Query) X (H100, A100, RTX2060)
+2026-02 - Decode attention benchmark - (Multi-Head, Group Query, Multi-Query) X (H100, A100, RTX2060)  
 [code](https://github.com/jnros/inf-bench)
 2026-01 - Kimi K2.5 technical paper: methods and implications  
 [analysis](https://gist.github.com/jnros/b198b7b78120f972b84d4787e9eb9c57)  
