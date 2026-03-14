@@ -1,6 +1,6 @@
 # John Rose
 
-Systems engineer building AI infrastrcture on GPUs. 7 years in Linux kernel at IBM.
+Systems engineer building AI infrastructure on GPUs. 7 years in Linux kernel at IBM.
 
 **Latest work**  
 2026-03 - Paged Attention from scratch: virtual memory for KV Cache in CUDA  
