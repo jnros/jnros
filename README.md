@@ -4,7 +4,7 @@ Systems engineer building AI infrastrcture on GPUs. 7 years in Linux kernel at I
 
 **Latest work**  
 2026-03 - Paged Attention from scratch: virtual memory for KV Cache in CUDA  
-[code](https://github.com/jnros/cuda-attn-ref)
+[code](https://github.com/jnros/cuda-attn-ref)  
 2026-02 - Decode attention: MHA/MQA/GQA X H100/A100/RTX2060  
 [code](https://github.com/jnros/inf-bench)  
 2026-01 - Kimi K2.5 technical paper: methods and implications  
