@@ -5,8 +5,8 @@ Systems engineer - GPU inference systems, kernel/virtualization (ex-IBM Linux)
 **Selected Work**  
 
 - 2026-03 . KV Compression (TurboQuant): memory + demand implications . [analysis](https://gist.github.com/jnros/0e3ad79e43762eb750d14c3a697543de)
-- 2026-03 . Paged Attention: — KV cache as virtual memory (CUDA) . [repo](https://github.com/jnros/cuda-attn-ref)
-- 2026-02 . Decode Attention: — bandwidth limits (H100/A100/RTX) . [repo](https://github.com/jnros/inf-bench)
+- 2026-03 . Paged Attention: KV cache as virtual memory (CUDA) . [repo](https://github.com/jnros/cuda-attn-ref)
+- 2026-02 . Decode Attention: bandwidth limits (H100/A100/RTX) . [repo](https://github.com/jnros/inf-bench)
 - 2026-01 . Kimi K2.5: methods + systems impact . [analysis](https://gist.github.com/jnros/b198b7b78120f972b84d4787e9eb9c57)
 - 2026-01 . FP64 on INT8 (Ozaki, Blackwell): POC . [analysis](https://gist.github.com/jnros/c97b01bff9aa683069556e6e0b6ae073) . [repo](https://github.com/jnros/slice)
 - 2026-01 . KV Offload (Engram): system design . [analysis](https://gist.github.com/jnros/92ed1e5b5af05d3a2fd353b4537af744)
