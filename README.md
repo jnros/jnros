@@ -4,12 +4,12 @@ Systems engineer - GPU inference systems, kernel/virtualization (ex-IBM Linux)
 
 **Selected Work**  
 
-- 2026-03 — KV Compression (TurboQuant) — memory + demand implications — [analysis](https://gist.github.com/jnros/0e3ad79e43762eb750d14c3a697543de)
-- 2026-03 — Paged Attention — KV cache as virtual memory (CUDA) — [repo](https://github.com/jnros/cuda-attn-ref)
-- 2026-02 — Decode Attention — bandwidth limits (H100/A100/RTX) — [repo](https://github.com/jnros/inf-bench)
-- 2026-01 — Kimi K2.5 — methods + systems impact — [analysis](https://gist.github.com/jnros/b198b7b78120f972b84d4787e9eb9c57)
-- 2026-01 — FP64 on INT8 (Ozaki, Blackwell) — POC — [analysis](https://gist.github.com/jnros/c97b01bff9aa683069556e6e0b6ae073) · [repo](https://github.com/jnros/slice)
-- 2026-01 — KV Offload (Engram) — system design — [analysis](https://gist.github.com/jnros/92ed1e5b5af05d3a2fd353b4537af744)
+- 2026-03 . KV Compression (TurboQuant): memory + demand implications . [analysis](https://gist.github.com/jnros/0e3ad79e43762eb750d14c3a697543de)
+- 2026-03 . Paged Attention: — KV cache as virtual memory (CUDA) . [repo](https://github.com/jnros/cuda-attn-ref)
+- 2026-02 . Decode Attention: — bandwidth limits (H100/A100/RTX) . [repo](https://github.com/jnros/inf-bench)
+- 2026-01 . Kimi K2.5: methods + systems impact . [analysis](https://gist.github.com/jnros/b198b7b78120f972b84d4787e9eb9c57)
+- 2026-01 . FP64 on INT8 (Ozaki, Blackwell): POC . [analysis](https://gist.github.com/jnros/c97b01bff9aa683069556e6e0b6ae073) . [repo](https://github.com/jnros/slice)
+- 2026-01 . KV Offload (Engram): system design . [analysis](https://gist.github.com/jnros/92ed1e5b5af05d3a2fd353b4537af744)
 
 **Linux Kernel and Userspace:** Author of [rpadlpar](https://github.com/torvalds/linux/blob/v6.18/drivers/pci/hotplug/rpadlpar_core.c) (mainline kernel, PCI Hotplug) and [librtas](https://github.com/ibm-power-utilities/librtas) (RTAS userspace for POWER). Both still shipping in RHEL, SLES, Enterprise Linux 20 years later.
 
