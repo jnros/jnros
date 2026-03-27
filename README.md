@@ -3,6 +3,8 @@
 Systems engineer building AI infrastructure on GPUs. 7 years in Linux kernel at IBM.
 
 **Latest work**  
+2026-03 - Google TurboQuant KV Compression: details and implications
+[analysis](https://gist.github.com/jnros/0e3ad79e43762eb750d14c3a697543de)
 2026-03 - Paged Attention from scratch: virtual memory for KV Cache in CUDA  
 [code](https://github.com/jnros/cuda-attn-ref)  
 2026-02 - Decode attention: MHA/MQA/GQA X H100/A100/RTX2060  
