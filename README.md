@@ -1,6 +1,6 @@
 # John Rose
 
-Systems engineer building AI infrastructure on GPUs. 7 years in Linux kernel at IBM.
+Systems engineer - GPU inference systems, kernel/virtualization (ex-IBM Linux)  
 
 **Selected Work**  
 
