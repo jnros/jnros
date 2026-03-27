@@ -1,6 +1,7 @@
 # John Rose
 
 Systems engineer - GPU inference systems, kernel/virtualization (ex-IBM Linux)  
+Focus: Inference, memory management, accelerated compute, quantization
 
 **Selected Work**  
 
