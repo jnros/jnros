@@ -5,6 +5,7 @@ Focus: Inference, memory management, accelerated compute, quantization
 
 **Selected Work**  
 
+- 2026-04 Rootless Agent Sandbox: kernel primitives composition (ns, Landlock, seccomp) . [repo](https://github.com/jnros/agent-isolation)
 - 2026-03 KV Compression (TurboQuant): memory + demand implications . [analysis](https://gist.github.com/jnros/0e3ad79e43762eb750d14c3a697543de)
 - 2026-03 Paged Attention: KV cache as virtual memory (CUDA) . [repo](https://github.com/jnros/cuda-attn-ref)
 - 2026-02 Decode Attention: Multi-Query, Multi-head, Group Query . [repo](https://github.com/jnros/inf-bench)
