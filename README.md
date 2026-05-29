@@ -5,7 +5,7 @@ Focus: Inference, memory management, accelerated compute, quantization
 
 **Selected Work**  
 
-- 2026-05 Roofline & Ridge Point: GPU and inference optimization - [repo](https://github.com/jnros/roofbench)
+- 2026-05 Roofline & Ridge Point: GPU and inference optimization . [repo](https://github.com/jnros/roofbench)
 - 2026-05 KV Mix: asymmetric K/V quantization, outlier-driven mixed precision . [repo](https://github.com/jnros/kvmix)
 - 2026-04 Deepseek V4: system design & implications . [analysis](https://gist.github.com/jnros/9d0743f02183ccb2947e8eb69bb9406c)
 - 2026-04 Rootless Agent Sandbox: kernel primitives composition (ns, Landlock, seccomp) . [repo](https://github.com/jnros/agent-isolation)
