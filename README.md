@@ -5,7 +5,7 @@ Focus: Inference, memory management, accelerated compute, quantization
 
 **Selected Work**  
 
-- 2026-05 DiffusionBlocks AR: first language-model port, block-wise training without backprop . [repo](https://github.com/jnros/nanodev)
+- 2026-06 DiffusionBlocks AR: first language-model port, block-wise training, GPU decoupling . [repo](https://github.com/jnros/nanodev)
 - 2026-05 Roofline & Ridge Point: GPU and inference optimization . [repo](https://github.com/jnros/roofbench)
 - 2026-05 KV Mix: asymmetric K/V quantization, outlier-driven mixed precision . [repo](https://github.com/jnros/kvmix)
 - 2026-04 Deepseek V4: system design & implications . [analysis](https://gist.github.com/jnros/9d0743f02183ccb2947e8eb69bb9406c)
