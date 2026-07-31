@@ -5,6 +5,7 @@ Focus: Inference, memory management, accelerated compute, quantization
 
 **Selected Work**  
 
+- 2026-07 GPU Passthrough: IOMMU, VFIO, and Thermal Debug . [guide](https://github.com/jnros/gpu-passthrough)
 - 2026-07 KV Wire: RDMA over RoCE for Disaggregated Inference . [repo](https://github.com/jnros/kvwire)
 - 2026-06 DiffusionBlocks AR: first language-model port, block-wise training, GPU decoupling . [repo](https://github.com/jnros/nanodev)
 - 2026-05 Roofline & Ridge Point: GPU and inference optimization . [repo](https://github.com/jnros/roofbench)
@@ -20,7 +21,7 @@ Focus: Inference, memory management, accelerated compute, quantization
 
 **Linux Kernel:** Author of [rpadlpar](https://github.com/torvalds/linux/blob/v6.18/drivers/pci/hotplug/rpadlpar_core.c) (mainline PCI Hotplug) and [librtas](https://github.com/ibm-power-utilities/librtas) (POWER userspace).  
 
-**Select Projects:** [kvm-experiments](https://github.com/jnros/kvm-experiments) Built KVM host, client VMs, and debugged passthrough / VFIO / iommu.  
+**Select Projects:**  
 [quant-sampler](https://github.com/jnros/quant-sampler) Minimal implementation of sampling in C with numerically stable softmax and custom bit-packing.  
 
 **Background:** 7 years Linux kernel at IBM. 15 years industry. Now building low-level systems/GPU/inference.
