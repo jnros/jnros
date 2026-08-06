@@ -5,8 +5,8 @@ Focus: Inference, memory management, accelerated compute, quantization
 
 **Selected Work**  
 
-- 2026-07 GPU Passthrough: IOMMU, VFIO, and Thermal Debug . [guide](https://github.com/jnros/gpu-passthrough)
 - 2026-07 KV Wire: RDMA over RoCE for Disaggregated Inference . [repo](https://github.com/jnros/kvwire)
+- 2026-07 GPU Passthrough: IOMMU, VFIO, and Thermal Debug . [guide](https://github.com/jnros/gpu-passthrough)
 - 2026-06 DiffusionBlocks AR: first language-model port, block-wise training, GPU decoupling . [repo](https://github.com/jnros/nanodev)
 - 2026-05 Roofline & Ridge Point: GPU and inference optimization . [repo](https://github.com/jnros/roofbench)
 - 2026-05 KV Mix: asymmetric K/V quantization, outlier-driven mixed precision . [repo](https://github.com/jnros/kvmix)
