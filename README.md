@@ -1,13 +1,14 @@
 # John Rose
 
 Systems engineer - GPU inference systems, kernel/virtualization (ex-IBM Linux)  
-Focus: Inference, memory management, accelerated compute, quantization
+Focus: Inference, memory management, accelerated compute, quantization  
+Notes and consulting: **[lineargp.com](https://lineargp.com)**
 
 **Selected Work**  
 
 - 2026-08 SACC: Synthetic PCIe Accelerator . [analysis](https://lineargp.com/notes/2026-08-synthetic-pcie/) . [repo](https://github.com/jnros/sacc)
-- 2026-07 KV Wire: RDMA over RoCE for Disaggregated Inference [analysis](https://lineargp.com/notes/2026-07-rdma-roce/) . [repo](https://github.com/jnros/kvwire)
-- 2026-07 GPU Passthrough: IOMMU, VFIO, and Thermal Debug . [analysis](https://lineargp.com/notes/2026-07-gpu-passthrough/) . [guide](https://github.com/jnros/gpu-passthrough)
+- 2026-07 KV Wire: RDMA over RoCE for Disaggregated Inference . [analysis](https://lineargp.com/notes/2026-07-rdma-roce/) . [repo](https://github.com/jnros/kvwire)
+- 2026-07 GPU Passthrough: IOMMU, VFIO, and Thermal Debug . [analysis](https://lineargp.com/notes/2026-07-gpu-passthrough/) . [repo](https://github.com/jnros/gpu-passthrough)
 - 2026-06 DiffusionBlocks AR: first language-model port, block-wise training, GPU decoupling . [repo](https://github.com/jnros/nanodev)
 - 2026-05 Roofline & Ridge Point: GPU and inference optimization . [repo](https://github.com/jnros/roofbench)
 - 2026-05 KV Mix: asymmetric K/V quantization, outlier-driven mixed precision . [repo](https://github.com/jnros/kvmix)
@@ -22,9 +23,8 @@ Focus: Inference, memory management, accelerated compute, quantization
 
 **Linux Kernel:** Author of [rpadlpar](https://github.com/torvalds/linux/blob/v6.18/drivers/pci/hotplug/rpadlpar_core.c) (mainline PCI Hotplug) and [librtas](https://github.com/ibm-power-utilities/librtas) (POWER userspace).  
 
-**Select Projects:**  
-[quant-sampler](https://github.com/jnros/quant-sampler) Minimal implementation of sampling in C with numerically stable softmax and custom bit-packing.  
+**Also:** [quant-sampler](https://github.com/jnros/quant-sampler) (sampling in C, stable softmax, bit-packing) . [kvm-experiments](https://github.com/jnros/kvm-experiments) . [diskutil](https://github.com/jnros/diskutil) . [rand-bitwise](https://github.com/jnros/rand-bitwise)
 
 **Background:** 7 years Linux kernel at IBM. 15 years industry. Now building low-level systems/GPU/inference.
 
-**Contact:** [john@lineargp.com] | [LinkedIn](https://www.linkedin.com/in/johnrose)
+**Contact:** [john@lineargp.com](mailto:john@lineargp.com) | [LinkedIn](https://www.linkedin.com/in/johnrose)
