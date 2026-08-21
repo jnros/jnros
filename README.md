@@ -6,8 +6,8 @@ Focus: Inference, memory management, accelerated compute, quantization
 **Selected Work**  
 
 - 2026-08 SACC: Synthetic PCIe Accelerator . [analysis](https://lineargp.com/notes/2026-08-synthetic-pcie/) . [repo](https://github.com/jnros/sacc)
-- 2026-07 KV Wire: RDMA over RoCE for Disaggregated Inference . [repo](https://github.com/jnros/kvwire)
-- 2026-07 GPU Passthrough: IOMMU, VFIO, and Thermal Debug . [guide](https://github.com/jnros/gpu-passthrough)
+- 2026-07 KV Wire: RDMA over RoCE for Disaggregated Inference [analysis](https://lineargp.com/notes/2026-07-rdma-roce/) . [repo](https://github.com/jnros/kvwire)
+- 2026-07 GPU Passthrough: IOMMU, VFIO, and Thermal Debug . [analysis](https://lineargp.com/notes/2026-07-gpu-passthrough/) . [guide](https://github.com/jnros/gpu-passthrough)
 - 2026-06 DiffusionBlocks AR: first language-model port, block-wise training, GPU decoupling . [repo](https://github.com/jnros/nanodev)
 - 2026-05 Roofline & Ridge Point: GPU and inference optimization . [repo](https://github.com/jnros/roofbench)
 - 2026-05 KV Mix: asymmetric K/V quantization, outlier-driven mixed precision . [repo](https://github.com/jnros/kvmix)
