@@ -6,6 +6,7 @@ Notes and consulting: **[lineargp.com](https://lineargp.com)**
 
 **Selected Work**  
 
+- 2026-10 OpenBMC and Redfish on GB200 . [analysis](https://lineargp.com/notes/2026-10-openbmc-redfish/)
 - 2026-08 SACC: Synthetic PCIe Accelerator . [analysis](https://lineargp.com/notes/2026-08-synthetic-pcie/) . [repo](https://github.com/jnros/sacc)
 - 2026-07 KV Wire: RDMA over RoCE for Disaggregated Inference . [analysis](https://lineargp.com/notes/2026-07-rdma-roce/) . [repo](https://github.com/jnros/kvwire)
 - 2026-07 GPU Passthrough: IOMMU, VFIO, and Thermal Debug . [analysis](https://lineargp.com/notes/2026-07-gpu-passthrough/) . [repo](https://github.com/jnros/gpu-passthrough)
