@@ -25,7 +25,7 @@ Notes and consulting: **[lineargp.com](https://lineargp.com)**
 
 **Linux Kernel:** Author of [rpadlpar](https://github.com/torvalds/linux/blob/v6.18/drivers/pci/hotplug/rpadlpar_core.c) (mainline PCI Hotplug) and [librtas](https://github.com/ibm-power-utilities/librtas) (POWER userspace).  
 
-**Also:** [quant-sampler](https://github.com/jnros/quant-sampler) (sampling in C, stable softmax, bit-packing) . [kvm-experiments](https://github.com/jnros/kvm-experiments) . [diskutil](https://github.com/jnros/diskutil) . [rand-bitwise](https://github.com/jnros/rand-bitwise)
+**Also:** [quant-sampler](https://github.com/jnros/quant-sampler) (sampling in C, stable softmax, bit-packing) . [rand-bitwise](https://github.com/jnros/rand-bitwise) (uniform u32 RNG using Lemire's algorithm)
 
 **Background:** 7 years Linux kernel at IBM. 15 years industry. Now building low-level systems/GPU/inference.
 
